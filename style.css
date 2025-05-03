@@ -1,0 +1,19 @@
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #0d1117;
+  color: #c9d1d9;
+}
+.container {
+  padding: 20px;
+}
+h1 {
+  text-align: center;
+}
+iframe {
+  width: 100%;
+  height: 90vh;
+  border: 1px solid #30363d;
+  background: white;
+}
