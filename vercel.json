@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    { "source": "/transcripts/(.*)", "destination": "/transcripts/$1" }
+    { "source": "/transcripts/(.*)", "destination": "/public/transcripts/$1" }
   ]
 }
